@@ -7,3 +7,4 @@
   - Context API - React
   - бибилиотека Prop-types
   - React Router
+  - Css реализован на модулях
